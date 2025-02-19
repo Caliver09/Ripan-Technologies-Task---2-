@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/9edc610a-34f1-43ad-b705-ce4171c21319
 Description:- The Ticket Booking System is a web-based application designed to facilitate the booking and
 management of tickets for various events or services, such as concerts, movies, or travel.
 The objective is to build an intuitive, efficient, and feature-rich platform that allows users to
@@ -19,4 +17,4 @@ Dynamic UI Rendering – Event lists update automatically.
 
 This lightweight system efficiently manages event bookings with a simple, user-friendly interface. 
 
-Working of the project:-  
+Working of the project:-  https://github.com/user-attachments/assets/9edc610a-34f1-43ad-b705-ce4171c21319 
